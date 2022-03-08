@@ -1,1 +1,1 @@
-# Algorithm-Problems
+# Problem-Solving
