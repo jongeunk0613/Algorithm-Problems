@@ -11,15 +11,13 @@
 - Space Complexity :
 - Time Complexity :
 
-### 🧐 Things I Learned
-
 ### 📝 Source Code
 
 ```javascript
 
 ```
 
-### Other solutions
+### 🧐 Thins I Learned From Other solutions
 <details>
 <summary>example</summary>
 <div markdown="1">
